@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 1.89
+    },
+    {
+      "id": 2,
+      "name": "Computador Gamer",
+      "price": 5980.10
+    },
+    {
+      "id": 3,
+      "name": "Sabonete Liquido",
+      "price": 5.10
+    }
+  ]
+}
